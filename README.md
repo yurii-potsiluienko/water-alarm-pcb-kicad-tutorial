@@ -1,4 +1,4 @@
-# Arduino Nano sensor interface PCB
+# Water alarm PCB
 
 ## Overview
 
