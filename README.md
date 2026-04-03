@@ -43,4 +43,4 @@ The PCB integrates several components, including a buzzer, an LED, a MOSFET, a s
 
 This project was created by following this tutorial:
 
-- [KiCad PCB Design Tutorial](https://www.youtube.com/watch?v=0WCi1rhueH4&list=PLEBQazB0HUyQ5YJSdCBb79orXaR3Uk5vm)
+- [KiCad 9.0 - Getting Started](https://www.youtube.com/watch?v=0WCi1rhueH4&list=PLEBQazB0HUyQ5YJSdCBb79orXaR3Uk5vm)
